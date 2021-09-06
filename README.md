@@ -5,3 +5,7 @@ REST API to pratice python skills
 Run the command below in the root folder:
 
 `python main.py`
+
+## Postman collection
+Import ***Flask.postman_collection.json*** to postman http client
+
